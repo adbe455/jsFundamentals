@@ -28,7 +28,7 @@ let number = 6;
 
 let age = 30;
 
-(age >= 25) ? console.log("you can rent a car") 
-: (age >= 21) ? console.log("you can drink") 
-: (age >= 18) ? console.log("you can vote") 
+(age >= 25) ? console.log("you can rent a car")
+: (age >= 21) ? console.log("you can drink")
+: (age >= 18) ? console.log("you can vote")
 : console.log("you cant do anything")
